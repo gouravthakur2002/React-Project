@@ -10,20 +10,11 @@ const DescriptionBox = () => {
       </div>
       <div className="descriptionbox-description">
         <p>
-          An e-commerce website is an online platform that facilitates the
-          buying and selling of products or services over the internet. It
-          serves as a virtual marketplace where businesses and individuals can
-          showcase their products, interact with customers, and conduct
-          transactions without the need for a physical presence. E-commerce
-          websites have gained immense popularity due to their convenience,
-          accessibility, and the global reach they offer.
+        Welcome to Kullu Creations, your online destination for the finest authentic Himachali products! From the vibrant valleys of Himachal Pradesh, Kullu Creations brings traditional, handcrafted items directly to your doorstep, allowing you to experience the rich culture of the Himalayas from anywhere.
+
+Our online store offers a curated selection of categories for Men, Women, and Kids, featuring high-quality clothing, accessories, and unique artisan crafts inspired by Himachali traditions. Whether you’re looking for warm Kullu shawls, handcrafted jewelry, or colorful Himachali caps, Kullu Creations has something special for everyone.
         </p>
-        <p>
-          E-commerce websites typically display products or services along with
-          detailed descriptions, images, prices, and any available variations
-          (e.g., sizes, colors). Each product usually has its own dedicated page
-          with relevant information.
-        </p>
+       
       </div>
     </div>
   );

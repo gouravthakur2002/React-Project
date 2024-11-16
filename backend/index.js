@@ -10,11 +10,8 @@ const port = process.env.PORT || 4000;
 app.use(express.json());
 app.use(cors());
 
-// Database Connection With MongoDB
-mongoose.connect("mongodb+srv://gouravjio80:8It3oSHvuvXqDNsp@cluster0.qsmre.mongodb.net/e-commerce");
 
-// paste your mongoDB Connection string above with password
-// password should not contain '@' special character
+mongoose.connect("mongodb+srv://gouravjio80:8It3oSHvuvXqDNsp@cluster0.qsmre.mongodb.net/e-commerce");
 
 
 //Image Storage Engine 

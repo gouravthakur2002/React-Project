@@ -30,6 +30,7 @@ const Footer = () => {
         <p><b>Address:</b> Shamshi,kullu distt,Himachal Pradesh, 175125</p>
         <p><b>Contact No:</b> 7649910200</p>
         <p><b>Email:</b> kullukinnorishawlsindustry@gmail.com</p>
+        
       </div>
     </div>
   )
