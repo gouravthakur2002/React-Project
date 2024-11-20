@@ -11,7 +11,7 @@ app.use(express.json());
 app.use(cors());
 
 
-//mongoose.connect("mongodb+srv://gouravjio80:8It3oSHvuvXqDNsp@cluster0.qsmre.mongodb.net/e-commerce");
+mongoose.connect("mongodb+srv://gouravjio80:8It3oSHvuvXqDNsp@cluster0.qsmre.mongodb.net/e-commerce");
 
 
 //Image Storage Engine 
