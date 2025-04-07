@@ -44,7 +44,7 @@ const LoginSignup = () => {
     if (!validateForm()) return;
 
     let dataObj;
-    await fetch("http://localhost:4000/login", {
+    await fetch("https://react-project-28jc.onrender.com/login", {
       method: "POST",
       headers: {
         Accept: "application/form-data",
@@ -69,7 +69,7 @@ const LoginSignup = () => {
     if (!validateForm()) return;
 
     let dataObj;
-    await fetch("http://localhost:4000/signup", {
+    await fetch("https://react-project-28jc.onrender.com/signup", {
       method: "POST",
       headers: {
         Accept: "application/form-data",
